@@ -69,9 +69,11 @@ Zombie Revolution — мобильная игра (условно freemium) с �
 
 **Никита Снежко** — BI/Product/Data Analyst.
 
-Стек: PostgreSQL, SQL, Power Query, Excel, Python, Power BI.  
-Фокус: пользовательские метрики, когортный анализ, финансовые метрики, воспроизводимые отчёты.  
+**Стек:** PostgreSQL, SQL (CTE, RECURSIVE CTE, подзапросы, оконные функции, JOIN LATERAL), Power Query (относительные пути, параметры), Excel 365 (сводные, Power Pivot), Python (базовая аналитика), Power BI.
 
-GitHub: [NickSnej1986](https://github.com/NickSnej1986)
-Telegram: [@Snej_Nik]
-nick.snejko@yandex.ru 
+**Фокус:** пользовательские метрики, когортный анализ, финансовые метрики, воспроизводимые отчёты. Приоритет — метрики, влияющие на бизнес‑решения.
+
+**Контакты:**
+- GitHub: [NickSnej1986](https://github.com/NickSnej1986)
+- Telegram: [@Snej_Nik]
+- Email: nick.snejko@yandex.ru
